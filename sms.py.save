@@ -1,0 +1,3 @@
+import way2sms
+q=way2sms.sms(8892651862,H2467M)
+Q.SEND('99017','HELLO')
